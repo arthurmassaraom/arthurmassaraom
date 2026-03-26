@@ -1,16 +1,18 @@
-## Hi there 👋
+# Arthur Massarão Marcomini | 17 anos 🚀
 
-<!--
-**arthurmassaraom/arthurmassaraom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Desenvolvimento de Sistemas @ SENAI Santo André**
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando no objetivo de me tornar um **Desenvolvedor Full-Stack**.
+- 🎯 Foco de carreira a longo prazo: **Engenharia de Software**.
+- 🌱 Estudando e aprimorando competências em **PHP, TypeScript e JavaScript**.
+- 🛠️ Experiência com **C++ e Arduino** para projetos de automação e sistemas embarcados.
+- ⚡ Curiosidade: Desenvolvi o projeto "Mercadinho São José" para provar que é possível criar um site funcional, limpo e bonito com apenas **4 arquivos utilizando HTML, CSS e JS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+`HTML5` | `CSS3` | `JavaScript` | `TypeScript` | `PHP` | `C++` | `Arduino` | `MySQL`
+
+---
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [https://www.linkedin.com/in/arthurmassaraom/]
+- **E-mail:** [arthurmassaraomarcomini@hotmail.com]
